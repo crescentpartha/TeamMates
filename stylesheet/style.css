@@ -1,6 +1,7 @@
 
 body {
     margin: 0%;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Navbar Section */
@@ -81,3 +82,48 @@ nav ul > li > a {
  text-align: center;
  border-top: 1px solid red;
 }
+
+/* Technical Expertization Section */
+
+.techs {
+    margin: 0 80px;
+}
+.web {
+    box-shadow: 10px 10px 50px gray;
+    padding: 25px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.web-web {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.web-web h3 {
+    font-size: 2em;
+    font-weight: 700;
+    display: inline;
+    margin: 0;
+    margin-right: 20px;
+}
+.web-item {
+    padding: 20px 0px;
+}
+.spans {
+    border: 1px solid tomato;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    overflow: hidden;
+    display: inline-block;
+}
+.spans:hover {
+    background-color: tomato;
+    color: white;
+}
+.fa, .fas {
+    font-weight: 900;
+    font-size: 25px;
+    color: tomato;
+}
+
