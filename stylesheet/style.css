@@ -51,3 +51,33 @@ nav ul > li > a {
     height: 400px;
     border-radius: 5px;
 }
+
+/* Member Information Section */
+
+.member-title {
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 2.5em;
+    color: tomato;
+}
+.members {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 80px;
+    justify-content: space-around;
+}
+.member {
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 7px;
+    border: 1px solid red;
+    width: 300px;
+}
+.member img {
+    width: 100%;
+    border-radius: 7px;
+}
+.member h3 {
+ text-align: center;
+ border-top: 1px solid red;
+}
