@@ -1,0 +1,53 @@
+
+body {
+    margin: 0%;
+}
+
+/* Navbar Section */
+.logo-section {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 0 0 0 30px;
+}
+.logo-section img {
+    width: 60px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: goldenrod;
+}
+nav h1 {
+    font-size: 1.8em;
+    margin-left: 5px;
+}
+nav ul {
+    display: flex;
+    margin-right: 30px;
+}
+nav ul > li {
+    list-style: none;
+    margin-right: 10px;
+    padding: 2px 5px;
+}
+nav ul > li:hover {
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+nav ul > li > a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+/* Heading Section */
+
+.heading img{
+    width: 100%;
+    height: 400px;
+    border-radius: 5px;
+}
