@@ -65,7 +65,7 @@ nav ul > li > a {
     text-align: center;
     padding: 20px 0px;
     font-size: 2.5em;
-    color: tomato;
+    color: #e02c6d;
 }
 .members {
     display: flex;
@@ -77,7 +77,7 @@ nav ul > li > a {
 .member {
     box-shadow: 5px 5px 20px grey;
     border-radius: 7px;
-    border: 1px solid red;
+    border: 1px solid #e02c6d;
     width: 300px;
 }
 .member img {
@@ -86,7 +86,7 @@ nav ul > li > a {
 }
 .member h3 {
  text-align: center;
- border-top: 1px solid red;
+ border-top: 1px solid #e02c6d;
 }
 
 /* Technical Expertization Section */
@@ -116,7 +116,7 @@ nav ul > li > a {
     padding: 20px 0px;
 }
 .spans {
-    border: 1px solid tomato;
+    border: 1px solid #e02c6d;
     padding: 5px 10px;
     border-radius: 5px;
     margin-right: 10px;
@@ -124,13 +124,13 @@ nav ul > li > a {
     display: inline-block;
 }
 .spans:hover {
-    background-color: tomato;
+    background-color: #e02c6d;
     color: white;
 }
 .fa, .fas {
     font-weight: 900;
     font-size: 25px;
-    color: tomato;
+    color: #e02c6d;
 }
 
 /* Project Section */
@@ -170,4 +170,76 @@ nav ul > li > a {
     text-align: center;
 }
 
+/* Contact Seciton */
 
+#contact {
+    border: 3px solid #e02c6d;
+    border-radius: 20px;
+    margin: 60px 80px;
+    padding: 30px;
+}
+.contacts-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+.contact-div {
+    box-shadow: 5px 5px 10px gray;
+    padding: 60px;
+    border-radius: 0px 20px;
+    text-align: center;
+    color: #e02c6d;
+}
+.contact-div:hover {
+    color: white;
+    background-color: #e02c6d;
+}
+.contact-div h2 {
+    margin: 2px 0px;
+}
+.contact-div h4 {
+    margin: 2px 0px;
+}
+.whatsapp {
+    width: 70px;
+    color: #e02c6d;
+}
+input {
+    display: block;
+    width: 60%;
+    margin: 40px auto;
+    padding: 10px;
+    border: 1px solid #e02c6d;
+    border-radius: 5px;
+}
+textarea {
+    display: block;
+    width: 60%;
+    margin: 40px auto;
+    padding: 10px;
+    border: 1px solid #e02c6d;
+    border-radius: 5px;
+}
+button{
+    padding: 10px 40px;
+    text-align: center;
+    border: 1px solid #e02c6d;
+    border-radius: 5px;
+    background-color: #e02c6d;
+    color: white;
+    font-size: 1.2em;
+}
+button:hover {
+    border: 1px solid #e02c6d;
+    border-radius: 5px;
+    background-color: white;
+    color: #e02c6d;
+    font-size: bold;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+}
