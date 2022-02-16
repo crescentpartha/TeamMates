@@ -1,0 +1,262 @@
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    nav ul {
+        margin-right: 10px;
+    }
+    nav ul > li {
+        margin-right: 5px;
+    }
+    .members {
+        gap: 20px;
+    }
+    .member-title {
+        margin-top: 70px;
+    }
+    .contact-div {
+        padding: 30px 20px;
+    }
+    .whatsapp {
+        width: 40px;;
+    }
+    input {
+        margin: 15px auto;
+    }
+    footer h2 {
+        font-size: 1.6em;
+    }
+    footer h4 {
+        font-size: 1em;
+    }
+    footer svg {
+        width: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .logo-section img {
+        width: 45px;
+    }
+    nav h1 {
+        font-size: 1.5em;
+    }
+    nav ul > li > a {
+        font-size: 1em;
+    }
+    nav ul {
+        margin-right: 10px;
+    }
+    nav ul > li {
+        margin-right: 0px;
+    }
+    .member-title {
+        font-size: 2em;
+    }
+    .members {
+        gap: 20px;
+    }
+    .member {
+        height: 230px;
+    }
+    .member img {
+        height: 230px;
+    }
+    .member h3 {
+        margin: 8px;
+        font-size: 1em;
+    }
+    .web-web h3 {
+        font-size: 1.5em;
+    }
+    .fa, .fas {
+        font-size: 1.4em;
+    }
+    .spans {
+        padding: 2px 8px;
+        font-size: 0.8em;
+    }
+    .part2 h3 {
+        font-size: 1.2em;
+    }
+    .part2 p {
+        font-size: 0.8em;
+    }
+    .part1 img {
+        height: 140px;
+    }
+    .contacts-div {
+        gap: 15px;
+    }
+    #contact {
+        border: 2px solid #e02c6d;
+        margin: 60px 25px;
+    }
+    .contact-div {
+        padding: 10px;
+    }
+    .whatsapp {
+        width: 35px;
+    }
+    .contact-div h2 {
+        font-size: 1em;
+    }
+    .contact-div h4 {
+        font-size: 0.8em;
+    }
+    input {
+        margin: 12px auto;
+        padding: 5px;
+        font-size: 0.8em;
+    }
+    textarea {
+        width: 58%;
+        margin: 12px auto;
+        font-size: 1em;
+    }
+    button {
+        padding: 5px 20px;
+        font-size: 1em;
+    }
+    footer h2 {
+        font-size: 1.2em;
+    }
+    footer h4 {
+        font-size: 0.8em;
+    }
+    footer svg {
+        width: 15px;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .logo-section {
+        margin: 0 0 0 5px;
+    }
+    .logo-section img {
+        width: 30px;
+    }
+    nav h1 {
+        font-size: 1em;
+    }
+    nav ul > li > a {
+        font-size: 0.8em;
+    }
+    nav ul > li > a:hover {
+        font-size: 0.8em;
+        padding: 1px;
+        margin: 1px;
+    }
+    nav ul > li {
+        margin-right: 5px;
+        padding: 2px 0px;
+    }
+    nav ul > li:hover {
+        margin-right: 2px;
+        padding: 1px 0px;
+    }
+    nav ul {
+        gap: 2px;
+    }
+    .heading img {
+        height: 250px;
+        border-radius: 2px;
+        margin-top: 60px;
+    }
+    .member-title {
+        font-size: 1.2em;
+    }
+    .member img {
+        height: 125px;
+    }
+    .member {
+        height: 125px;
+    }
+    .members {
+        gap: 20px;
+    }
+    .member h3 {
+        font-size: 0.7em;
+    }
+    .web-web h3 {
+        font-size: 1em;
+        margin-right: 5px;
+    }
+    .fa, .fas {
+        font-size: 0.9em;
+    }
+    .spans {
+        padding: 1px 5px;
+        font-size: 0.7em;
+    }
+    .part2 h3 {
+        font-size: 0.8em;
+    }
+    .part2 p {
+        font-size: 0.6em;
+    }
+    .project {
+        justify-content: center;
+        flex-wrap: wrap;
+        padding: 10px;
+    }
+    .contacts-div {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    #contact {
+        border: 2px solid #e02c6d;
+        border-radius: 10px;
+        margin: 60px 15px;
+        padding: 15px;
+    }
+    .contact-div {
+        padding: 15px;
+        border-radius: 0px 15px;
+        height: 170px;
+    }
+    .contact-div {
+        width: 335px;
+        margin-bottom: 20px;
+    }
+    .whatsapp {
+        width: 40px;
+    }
+    input {
+        margin: 10px auto;
+        padding: 5px;
+        font-size: 0.8em;
+    }
+    textarea {
+        margin: 10px auto;
+        padding: 5px;
+        font-size: 1em;
+    }
+    button {
+        padding: 3px 15px;
+        font-size: 0.8em;
+    }
+    footer h2 {
+        font-size: 1em;
+    }
+    footer h4 {
+        font-size: 0.7em;
+    }
+    footer svg {
+        width: 12px;
+    }
+    .footer-icons {
+        gap: 12px;
+    }  
+}
+
+
+/* 
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    
+}
+
+@media only screen and (max-width: 319px) {
+    
+}
+*/
+
