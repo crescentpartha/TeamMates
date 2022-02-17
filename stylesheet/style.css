@@ -11,6 +11,9 @@ body {
     justify-content: left;
     margin: 0 0 0 30px;
 }
+.logo-section a {
+    text-decoration: none;
+}
 .logo-section img {
     width: 60px;
 }
