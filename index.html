@@ -207,10 +207,10 @@
                 <form class="form" action="#">
                     <input type="email" name="email" id="email" placeholder="Enter Your Email" required>
                     <input type="password" name="password" id="password" placeholder="Enter Your Password" required>
-                    <textarea name="textarea" id="textarea" cols="30" rows="10" placeholder="Enter Your Massage"></textarea>
+                    <textarea name="textarea" id="message" cols="30" rows="10" placeholder="Enter Your Message" required></textarea>
                     <div class="button">
-                        <button type="reset">Clear</button>
-                        <button type="submit">Submit</button>
+                        <button type="reset" onclick="clear()" id="clear">Clear</button>
+                        <button type="submit" onclick="submit()" id="submit">Submit</button>
                     </div>
                 </form>
             </div>
@@ -237,5 +237,5 @@
         </div>
     </footer>
 </body>
-
+<script src="./js/app.js"></script>
 </html>

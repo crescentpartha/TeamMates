@@ -1,6 +1,6 @@
 # TeamMates
 
-Root Link: https://crescentpartha.github.io/TeamMates/
+[`Root Link:`](https://crescentpartha.github.io/TeamMates/index.html) https://crescentpartha.github.io/TeamMates/
 
 [Website from __Github__](https://crescentpartha.github.io/TeamMates/index.html "Live Server Hosted by Github")
 
@@ -19,3 +19,4 @@ Root Link: https://crescentpartha.github.io/TeamMates/
 * Code Validation
 * Cross Browser Support
 * Deployment in Netlify
+* Improved Accessibility
