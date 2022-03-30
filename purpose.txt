@@ -1,0 +1,32 @@
+
+				  TEAM_Name: Team::MIT
+Member Informations:
+
+				Member-1 		Member-2	   		 Member-3
+	  		      Provakor Das      Crescent Deb Nath Partha          Showmen Purkayastha
+				 272 			 223 				  230
+	   		      MIT, SUST		      MIT, SUST		               MIT, SUST
+
+
+JavaScript Features:
+
+	Feature-1: we associated addEventListener in "Clear" & "Submit" button and get inputField value by getElementById after that we displayed these value using alert() method & confirm() method.
+
+		In Submit button feature, when any user click the submit button to submit form data, a popup window appears on the screen which is illustrated inputField value to check everything is ok or not by using confirm() method.
+
+		In Clear button feature, when any user click the clear button, a popup window display in the screen which is demonstrated inputField value to confirm every inputfield value is alright and this is implemented by alert() method.
+
+	Feature-2: We added a modal in the Image & Name section to display team member information in a popup window.
+
+Description:
+
+	The entire page is divided into seven sections (Home, Member, Expertization, Projects, Contact, Purpose, Footer).
+	# Home = displays a cover page of your university (SUST)
+	# Member = illustrate three member's pieces of information with their name furthermore one feature is added there which is Modal (to display information)
+	# Expertization = Here, we added some sections according to your practical knowledge and expertise.
+	# Projects = we associated there some project as a demo purpose.
+	# Contact = Here, Anyone can submit there response using submit button in addition one more feature were attested there, these were alert() feature and confirm() feature.
+	# Purpose = Here, we added a "purpose.txt" file which is mainly the documentation of this site.
+	# Footer = this section discribe about copyright issue and ownership of this site.
+
+

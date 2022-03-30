@@ -10,6 +10,7 @@
 
 * HTML
 * CSS
+* JavaScript
 
 ## Project Criteria
 
@@ -20,3 +21,4 @@
 * Cross Browser Support
 * Deployment in Netlify
 * Improved Accessibility
+
